@@ -1,0 +1,20 @@
+
+body {
+    background-color: rgb(27, 30, 51);
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.btn {
+    padding: 1em;
+    margin: 1em;
+    background-color:lightgrey;
+}
+
+.new-array {
+    background-color:lightsteelblue;
+}
